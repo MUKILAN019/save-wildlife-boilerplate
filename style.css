@@ -65,3 +65,13 @@ footer {
   min-height: 100%;
   padding: 10% 0%;
 }
+nav{
+  display: flex;
+  justify-content: center;
+  
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
